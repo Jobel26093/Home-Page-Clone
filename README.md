@@ -10,7 +10,7 @@ Designed as a static, responsive layout to demonstrate front-end fundamentals.
 🗂️ Course categories grid layout, mimicking the look of Udemy’s course browsing.
 📚 Course cards with image placeholders, titles, pricing, and ratings.
 📱 Mobile-friendly structure using media queries (basic responsiveness).
-# link:
+# link:https://jobel26093.github.io/Home-Page-Clone/
 🛠️ Tech Stack:
 HTML5 for content structure
 CSS3 for styling and layout
